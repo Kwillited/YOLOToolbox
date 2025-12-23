@@ -1,0 +1,8 @@
+PyQt6
+ultralytics
+opencv-python
+numpy
+matplotlib
+mss
+torch
+yaml
