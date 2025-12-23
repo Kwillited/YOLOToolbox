@@ -39,7 +39,7 @@
 
 ```
 pcbyolo/
-├── gui.py              # 主界面文件
+├── GUI.py              # 主界面文件
 ├── core/
 │   ├── detection.py    # 智能识别模块
 │   ├── training.py     # 模型训练模块
@@ -81,7 +81,7 @@ pip install ultralytics opencv-python numpy matplotlib mss torch yaml
 
 ### 启动应用
 ```bash
-python gui.py
+python GUI.py
 ```
 
 ### 智能识别
@@ -138,3 +138,4 @@ python gui.py
 ## 贡献
 
 欢迎提交Issue和Pull Request来帮助改进这个项目！
+
